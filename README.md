@@ -1,4 +1,6 @@
-Resumen de la Aplicación: UserManagementAPI
+ UserManagementAPI
+
+ 
 UserManagementAPI es una API RESTful desarrollada en ASP.NET Core (.NET 9) para la gestión de usuarios, orientada a uso interno empresarial.
 Funcionalidades principales
 •CRUD de usuarios:
